@@ -1,6 +1,7 @@
 # To Create and Initialize a GitHub Repo
 **Step 1: Create a New Repo on GitHub.com**
 **Step 2: Terminal Side**
+
 ```
 touch Readme.md
 git init (create a place)
