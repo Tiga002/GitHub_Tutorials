@@ -39,3 +39,6 @@ rm -f .git/index
 
 For more information about the Working Mechanism of GitHub, can visit:
 http://rogerdudler.github.io/git-guide/index.zh.html
+
+GITHUB PULL REQUEST, Branching, Merging & Team Workflow
+https://youtu.be/oFYyTZwMyAg
